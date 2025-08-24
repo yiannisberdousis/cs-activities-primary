@@ -1,0 +1,1 @@
+print('Draw shapes demo')

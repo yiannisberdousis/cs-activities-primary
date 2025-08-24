@@ -1,0 +1,1 @@
+print('Max min demo')

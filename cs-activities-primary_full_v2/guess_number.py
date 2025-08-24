@@ -1,0 +1,1 @@
+print('Guess number demo')
